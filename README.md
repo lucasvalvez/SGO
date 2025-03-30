@@ -1,1 +1,2 @@
-# SGO
+# Lucas Valente
+# Guilherme Rodrigues
